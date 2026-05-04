@@ -4,7 +4,7 @@ def add(a: int, b: int) -> int:
 
 
 def main() -> None:
-    result = add(2, 3)
+    result = add(6, 3)
     print(result)
 
 
